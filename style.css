@@ -1,0 +1,17 @@
+body{
+	background-color: #232323;
+	display: flex;flex-direction: column;justify-content: space-around;
+	height: 100vh;
+	color: #eeefee;
+}
+
+#maintext{
+	font-size: 69pt;
+	font-family: fantasy;align-self: center;margin: auto;
+}
+
+#legend{
+	font-family: arial;
+	box-sizing: border-box;font-size: 22pt;
+	position: fixed;bottom: 0px;right: 30px;
+}
