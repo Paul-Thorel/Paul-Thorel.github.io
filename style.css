@@ -7,11 +7,11 @@ body{
 
 #maintext{
 	font-size: 69pt;
-	font-family: fantasy,"Trebuchet","Arial",sans-serif;align-self: center;margin: auto;
+	font-family:"Lucida Console", Monaco, monospace,sans-serif;align-self: center;margin: auto;
 }
 
 #legend{
-	font-family: arial;
+	font-family: Georgia;
 	box-sizing: border-box;font-size: 22pt;
 	position: fixed;bottom: 0px;right: 30px;
 }
