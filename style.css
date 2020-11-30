@@ -10,6 +10,8 @@ body{
 	font-family:"Lucida Console",monospace,sans-serif;align-self: center;margin: auto;
 }
 
+#void{font-size:55pt;}
+
 #legend{
 	font-family:cursive;
 	font-size: 23pt;
