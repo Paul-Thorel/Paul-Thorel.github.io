@@ -11,7 +11,7 @@ body{
 }
 
 #legend{
-	font-family: fantasy,cursive;
-	box-sizing: border-box;font-size: 22pt;
+	font-family: cursive;
+	box-sizing: border-box;font-size: 23pt;
 	position: fixed;bottom: 0px;right: 30px;
 }
