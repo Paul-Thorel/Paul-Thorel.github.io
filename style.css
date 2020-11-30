@@ -11,7 +11,7 @@ body{
 }
 
 #legend{
-	font-family: Georgia;
+	font-family: fantasy,cursive;
 	box-sizing: border-box;font-size: 22pt;
 	position: fixed;bottom: 0px;right: 30px;
 }
