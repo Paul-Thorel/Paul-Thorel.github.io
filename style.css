@@ -1,13 +1,13 @@
 body{
 	background-color: #232323;
-	display: flex;flex-direction: column;justify-content: center;
+	display: flex;flex-direction: column;justify-content: flex-start;
 	height: 100vh;
 	color: #eeefee;
 }
 
 #maintext{
 	font-size: 69pt;
-	font-family:"Lucida Console",monospace,sans-serif;align-self: center;margin: auto;
+	font-family:"Lucida Console",monospace,sans-serif;margin: auto;
 }
 
 #void{font-size:55pt;}
