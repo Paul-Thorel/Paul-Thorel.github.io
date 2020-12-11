@@ -1,19 +1,14 @@
-body{
-	background-color: #232323;
-	display: flex;flex-direction: column;justify-content: flex-start;
-	height: 100vh;
-	color: #eeefee;
+body{height:100vh;width:100vw;
+background-color:#1a1b1c;color:#efeef1;
+display:flex; flex-direction :column;
+justify-content :space-between;align-items:center;
 }
 
-#maintext{
-	font-size: 69pt;
-	font-family:"Lucida Console",monospace,sans-serif;margin: auto;
-}
+#main{margin:auto;
+font-family :monospace;}
 
-#void{font-size:55pt;}
+#legend{align-self:flex-end;
+font-family :fantasy,cursive;}
 
-#legend{
-	font-family:cursive;
-	font-size: 23pt;
-	position:fixed;bottom: 0px;right: 30px;
-}
+
+
